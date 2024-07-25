@@ -53,7 +53,7 @@ This project implements various CPU scheduling algorithms, including a novel alg
 - Md. Tasnimur Rahman : Implemented Round Robin algorithm.
 
 Novel Algorithm:
-- Implementation and Debugging: Md. Tasnimur Rahman and Jannatul Farzana Rashumoni
+- Implementation and Debugging: Jointly by  Md. Tasnimur Rahman and Jannatul Farzana Rashumoni
 - Concept and Design: All team members
 
 The novel algorithm was a collective effort, with the core idea being developed by all team members through collaborative discussions and brainstorming sessions.
