@@ -49,8 +49,8 @@ This project implements various CPU scheduling algorithms, including a novel alg
 - Shougata Paul: Implemented First-Come-First-Serve (FCFS) and Shortest Job First (SJF) algorithms.
 - Abid Al Hossain : Implemented Shortest Remaining Time First (SRTF) algorithm.
 - Arupa Barua: Implemented Priority Scheduling algorithm.
-- Jannatul Farzana Rashumoni: Implemented Preemptive Priority Scheduling algorithm.
 - Md. Tasnimur Rahman : Implemented Round Robin algorithm.
+- Jannatul Farzana Rashumoni: Implemented Preemptive Priority Scheduling algorithm.
 
 Novel Algorithm:
 - Implementation and Debugging: Jointly by  Md. Tasnimur Rahman and Jannatul Farzana Rashumoni
